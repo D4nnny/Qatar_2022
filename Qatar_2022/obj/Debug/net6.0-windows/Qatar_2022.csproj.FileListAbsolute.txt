@@ -1,0 +1,17 @@
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\bin\Debug\net6.0-windows\Qatar_2022.exe
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\bin\Debug\net6.0-windows\Qatar_2022.deps.json
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\bin\Debug\net6.0-windows\Qatar_2022.runtimeconfig.json
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\bin\Debug\net6.0-windows\Qatar_2022.dll
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\bin\Debug\net6.0-windows\Qatar_2022.pdb
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.csproj.AssemblyReference.cache
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.Form1.resources
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.csproj.GenerateResource.cache
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.AssemblyInfoInputs.cache
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.AssemblyInfo.cs
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.csproj.CoreCompileInputs.cache
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.dll
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\refint\Qatar_2022.dll
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.pdb
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\Qatar_2022.genruntimeconfig.cache
+D:\6TO_SEMESTRE\BASES DE DATOS I\Mini Proyecto\Qatar_2022\Qatar_2022\obj\Debug\net6.0-windows\ref\Qatar_2022.dll
